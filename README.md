@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python,HTML,CSS,Rust
 - 📫 How to reach me to: 
 - Instagram: https://www.instagram.com/kad.krg/
-- Linkedln: https://www.linkedin.com/in/f%C4%B1rat-%C3%A7akir-4b5b90251/
+- Linkedln: https://www.linkedin.com/in/kadir-k%C3%B6ro%C4%9Flu-087335264
