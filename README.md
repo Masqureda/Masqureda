@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kadir Köroğlu
+- 👋 Hi, I’m Kadir
 - 👀 I’m interested in Programming, Gaming, Movies and Series, Playing Guitar etc.
 - 🌱 I’m currently learning Python,HTML,CSS,Rust
 - 📫 How to reach me to: 
